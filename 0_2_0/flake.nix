@@ -9,7 +9,7 @@
   
   inputs.src-timestamp-0_2_0.flake = false;
   inputs.src-timestamp-0_2_0.owner = "jackhftang";
-  inputs.src-timestamp-0_2_0.ref   = "refs/tags/0.2.0";
+  inputs.src-timestamp-0_2_0.ref   = "0_2_0";
   inputs.src-timestamp-0_2_0.repo  = "timestamp.nim";
   inputs.src-timestamp-0_2_0.type  = "github";
   
