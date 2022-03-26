@@ -11,6 +11,7 @@
   inputs.src-timestamp-0_1_2.ref   = "refs/tags/0.1.2";
   inputs.src-timestamp-0_1_2.owner = "jackhftang";
   inputs.src-timestamp-0_1_2.repo  = "timestamp.nim";
+  inputs.src-timestamp-0_1_2.dir   = "";
   inputs.src-timestamp-0_1_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
